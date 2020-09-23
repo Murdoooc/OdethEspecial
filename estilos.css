@@ -1,0 +1,97 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+ 
+h2 {
+      font-size: 20px;
+  }
+ 
+p {
+   font: bold 14xp Times New Roman
+}
+body {
+    text-align: center
+}
+body {
+    background: #25328d
+}
+.mauro {
+    background: rgb(124, 240, 133)
+}
+nav {
+    background: rgb(241, 166, 166)
+}
+.mauro {
+    width: 990px;
+    border: 1px solid black;
+    margin: 15px auto;
+    padding: 40px;
+}
+.seccion li {
+    list-style: none;
+    padding: 5px;
+    display: inline-block;
+}
+.trejo h1 {
+    text-align: left
+}
+.ozkar {
+    text-align: left;
+    float: left
+}
+.cruz {
+    margin: 20px;
+    border: 1px solid black;
+    width: 600px;
+    text-align: left;
+    padding: 10px;
+    background: #b2c7ff
+}
+.comentario {
+    padding: 1px;
+    text-align: right
+}
+.yaz{
+    margin: 20px;
+    border: 1px solid black;
+    width: 600px;
+    padding: 10px;
+    text-align: left;
+    background: #D8BFD8
+}
+.comment2{
+    padding: 1px;
+    text-align: right
+    
+}
+.datos{
+    width: 200px;
+    float: left;
+    margin: 20px;
+    background: #A9F5F2;
+}
+header, section, footer, aside, nav, article, hgroup{
+    display: block
+} 
+.odethmia{
+    clear: both;
+}
+time{
+    color: #999
+}
+.nena{
+    font-size: 22px
+}
+.odeth3{
+    text-align: center;
+}
+.yazmin4{
+   width: 120px
+}
+.baby{
+    width: 120px
+}
+.Yazmin2{
+    text-align: center
+}
